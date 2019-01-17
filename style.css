@@ -1,0 +1,61 @@
+.key span {
+    position: absolute;
+    top: 0;
+    left: 0;
+    height: 100%;
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-family: 'Arvo', serif;
+    text-transform: uppercase;
+}
+
+.key i {
+    height: 100%;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.container {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+}
+
+body {
+    min-height: 100vh;
+    background-color: #afcfd9;
+}
+
+h1 {
+    font-family: 'Permanent Marker', cursive;
+    margin-top: 1em;
+    text-align: center;
+}
+
+.text-area {
+    margin-top: 1em;
+    height: 100px;
+}
+
+.card {
+    max-width: 500px;
+    width: 100%;
+    min-width: 250px;
+}
+
+.keys .card-body {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-wrap: wrap;
+}
+
+.key {
+    position: relative;
+    cursor: pointer;
+}
