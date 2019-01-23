@@ -1,6 +1,8 @@
 SEND MESSAGE APP
 ----------------
 
+You can see website here: https://shamansarii.github.io/dancing-circle/.
+
 ## APP FEATURES
 1. The app is a soft keyboard. Clicking the keys types the message. Clicking the message shows a "message sent!" alert
 
