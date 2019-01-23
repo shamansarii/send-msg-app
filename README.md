@@ -1,12 +1,13 @@
 SEND MESSAGE APP
 ----------------
-
-You can see website here: https://shamansarii.github.io/dancing-circle/.
+You can see website here: https://shamansarii.github.io/send-msg-app/
 
 ## APP FEATURES
+
 1. The app is a soft keyboard. Clicking the keys types the message. Clicking the message shows a "message sent!" alert
 
-## Ingredients
+## INGREDIENTS
+
 The app MUST use:
 1. Bootstrap
 2. Font Awesome for icons
@@ -16,6 +17,6 @@ The app MUST use:
 The CDNs of all ingredients, along with `script.js` and `style.css` files, have already been linked in the `<head>`.
 
 
-## Screenshots
+## SCREENSHOT
 
 ![mockup-desktop](https://user-images.githubusercontent.com/10798986/46590561-aaf3a200-cacd-11e8-99aa-3fd0e4341506.png)
